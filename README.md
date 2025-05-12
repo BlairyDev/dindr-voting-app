@@ -86,6 +86,8 @@ https://github.com/user-attachments/assets/5fedd6ad-7251-420b-88f5-f9ab4acc842f
 5. If app doesn't ask permissions with Location and Camera when pressing Create Session and Join Session please manually turn on Location and Camera permissions for the app in phone settings
 
  
-
+## Icons and Credits
+- Loading screen Icon: https://www.freepik.com/animated-icon/intermittent-fasting_16862110#fromView=search&page=1&position=45&uuid=26a996df-f6a5-4a3a-8f75-6d0ac2c5c4cb
+- Swipeable Cards: https://github.com/smartword-app/compose-swipeable-cards
 
 
