@@ -9,6 +9,11 @@ This project is a group project for CSC-415 at NKU. This public repository is fo
 ## Overview
 Tired of not being able to decide on where to eat with your friends or family that could lead to huge disagreement and endless debates? Dindr is an voting app that generates 5 restaurants near your location. Everyone can vote by swiping left and right on each of the restaurant options like Tinder. In an event that there is a tie, a random winner will be chosen.
 
+## Preview
+
+https://github.com/user-attachments/assets/5fedd6ad-7251-420b-88f5-f9ab4acc842f
+
+
 ## Built With
 <p align="center">
     <a href="https://developer.android.com/" style="border: none; outline: none;">
