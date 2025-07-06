@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/5fedd6ad-7251-420b-88f5-f9ab4acc842f
         <img align=center src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kotlin_Full_Color_Logo_Mark_RGB.png" alt="Kotlin Logo" width="60" height="60">
     </a>
     <a href="https://firebase.google.com/" style="border: none; outline: none;">
-        <img align=center src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" alt="Firebase Logo" height="70">
+        <img align=center src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" alt="Firebase Logo" width ="60" height="40">
     </a>
     <a href="https://developers.google.com/ml-kit" style="border: none; outline: none;">
         <img align=center src="https://developers.google.com/static/ml-kit/images/homepage/hero.png" alt="Firebase Logo" width="80" height="80">
